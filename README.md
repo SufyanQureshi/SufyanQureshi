@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SufyanQureshi
-- 👀 I’m interested in AR/VR :palm_tree:
-- 🌱 I’m currently learning Unity/Unreal
-- 💞️ I’m looking to collaborate on AR
+- 👀 I’m interested in AR/VR
+- 🌱 I’m currently Working on Unity3d
 - 📫 How to reach me :email: sufyannqureshii@gmail.com
 
 <!---
